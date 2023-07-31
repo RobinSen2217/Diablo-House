@@ -6,7 +6,7 @@ function Navbar() {
     <div>
       <header className="text-white bg-black body-font h-[14vh] md:h-[17vh] w-full ">
   <div className="container my-auto lg:px-20 mx-auto flex flex-nowrap md:flex-row items-center">
-      <img src="/public/logo-removebg-preview.png" alt="logo" className='h-24 md:h-32'/>
+      <img src="/logo-removebg-preview.png" alt="logo" className='h-24 md:h-32'/>
  
     <nav className="mx-auto flex flex-wrap items-center text-base justify-center gap-x-10 md:gap-x-16">
       <Link to='highlights' spy={true} smooth={true} offset={-50} duration={500} className=" hover:text-orange-500 lg:text-xl font-Nosifer hover:cursor-pointer max-[600px]:text-[10px] max-[520px]:hidden text-sm">Highlights</Link>
