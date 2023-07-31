@@ -6,7 +6,7 @@ function Schedule() {
         <h1 className='text-white Midnight text-5xl min-[411px]:text-7xl'>Schedule</h1>
 <div className='grid grid-rows-5 grid-cols-3 text-white text-center w-5/6 h-[50vh] mx-auto shadow-2xl shadow-black my-20 bg-black/70 rounded-xl'>
 
-<div className='border-b border-white border-r flex justify-center items-center'><img src="/src/assets/Eye.gif" alt="" className='h-20'/></div>
+<div className='border-b border-white border-r flex justify-center items-center'><img src="/public/Eye.gif" alt="eye" className='h-20'/></div>
 <div className='text-xl min-[411px]:text-3xl border-b border-r border-white flex justify-center items-center font-Metal'>Weekdays</div>
 <div className='text-xl min-[411px]:text-3xl border-b border-white flex justify-center items-center font-Metal'>Weekends</div>
 <div className='text-xl min-[411px]:text-3xl border-r flex justify-center items-center font-Metal'>Morning</div>
