@@ -4,7 +4,7 @@ import Hero from './Components/Hero'
 import Footer from './Components/Footer'
 import SubFooter from './Components/SubFooter'
 import PricingDay from './Components/PricingDay'
-import Testimonials from './Components/Testimonials'
+// import Testimonials from './Components/Testimonials'
 import Emote from './Components/Emote'
 import PricingEnd from './Components/PricingEnd'
 import Highlights from './Components/Highlights'
@@ -24,6 +24,7 @@ function App() {
   document.body.style.backgroundPosition='center'
   document.body.style.backgroundRepeat='no-repeat'
   document.body.style.backgroundSize='cover'
+  document.body.style.touchAction='pan-y'
   return (
     <Router>
     <>
@@ -36,7 +37,7 @@ function App() {
       <Route exact path='/' element={<PricingDay/>}/>
       <Route exact path='/end' element={<PricingEnd/>}/>
     </Routes>
-    <Testimonials/>
+    {/* <Testimonials/> */}
     <SubFooter/>
     <Footer/>
     </> 

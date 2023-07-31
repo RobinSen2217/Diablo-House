@@ -10,10 +10,13 @@ export default function SubFooter() {
         </div>
       <p className='text-white w-[300px] pt-4 min-[567px]:text-sm text-[11px] pr-2'>
         <span className='text-xl font-semibold'>Contact Us<br/>
-      </span><img src="/phone-removebg-preview.png" alt="phone" className='h-10 inline'/>
+      </span>
+      <img src="/Testi1.jpg" alt="" className='h-10 inline rounded-full'/>Faizan Bashir (Staff Executive)<br/>
+      <img src="/phone-removebg-preview.png" alt="phone" className='h-10 inline'/>
       +91 99998 77430<br/>
       <img src="/location-removebg-preview.png" alt="location"className='inline  h-10' />
       26, Municipal Market, Connaught Circus, New Delhi
+
       </p>
     </div>
     </div>

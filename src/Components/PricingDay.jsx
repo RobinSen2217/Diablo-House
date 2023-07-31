@@ -7,7 +7,7 @@ function PricingDay() {
 <section className="text-gray-400  body-font overflow-hidden ">
   <div className="container py-24 min-[1240px]:w-2/3 mx-auto">
     <div className="flex flex-col text-center w-full mb-20 justify-between">
-      <h1 className=" text-7xl font-medium title-font mb-2 text-white Zombie">TICKETS</h1>
+      <h1 className=" text-7xl font-medium title-font mb-2 text-white font-Mystery">TICKETS</h1>
       <p className="lg:w-2/3 mx-auto leading-relaxed  text-base text-slate-300">All tickets for kids under the age of 10 are 50% off.</p>
 
 
