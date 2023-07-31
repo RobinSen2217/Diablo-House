@@ -14,7 +14,7 @@ function Testimonials() {
           </svg>
           <p className="leading-relaxed mb-6">The asylum is a must! By far one of the coolest haunted attractions I've been to. The actors are spot on and the details are amazing.</p>
           <a className="inline-flex items-center">
-            <img alt="testimonial" src="/public/Testi1.jpg" className="w-16 h-16 rounded-full flex-shrink-0 object-cover object-center"/>
+            <img alt="testimonial" src="/Testi1.jpg" className="w-16 h-16 rounded-full flex-shrink-0 object-cover object-center"/>
             <span className="flex-grow flex flex-col pl-4">
               <span className="title-font font-medium text-orange-500">Faizan Bashir</span>
             </span>
@@ -28,7 +28,7 @@ function Testimonials() {
           </svg>
           <p className="leading-relaxed mb-6">This place is AWESOME!! The decorations were immaculate. It was an immersive and unique experience.</p>
           <a className="inline-flex items-center">
-            <img alt="testimonial" src="/public/Testi2.jpg" className="w-16 h-16 rounded-full flex-shrink-0 object-cover object-center"/>
+            <img alt="testimonial" src="/Testi2.jpg" className="w-16 h-16 rounded-full flex-shrink-0 object-cover object-center"/>
             <span className="flex-grow flex flex-col pl-4">
               <span className="title-font font-medium text-orange-500">Clara Davis</span>
             </span>
