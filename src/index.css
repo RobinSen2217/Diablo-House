@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Eater&family=Nosifer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Butcherman&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mystery+Quest&display=swap');
+@import url('https://db.onlinewebfonts.com/c/ce928866cb532fceea6039a05639ff95?family=HORROR');
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Mystery+Quest&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+    html {
+      @apply scroll-smooth;
+    }
+}

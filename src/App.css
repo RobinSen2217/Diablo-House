@@ -1,0 +1,26 @@
+@font-face {
+    font-family: Nightmare;
+    src: url(/src/assets/Nemo\ Nightmares.ttf);
+}
+
+.Nightmare{
+    font-family: Nightmare;
+}
+
+@font-face {
+    font-family: Zombie;
+    src: url(/src/assets/Nemo\ Nightmares.ttf);
+}
+
+.Zombie{
+    font-family: Zombie;
+}
+
+@font-face {
+    font-family: Midnight;
+    src: url(/src/assets/SecretMidnight-518n8.otf);
+}
+
+.Midnight{
+    font-family: Midnight;
+}
